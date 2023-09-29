@@ -1,4 +1,4 @@
-# pixelfedmoe
+# pixelfed.moe
 This is the official repository of pixelfed.moe!
 
 Get the latest information.
